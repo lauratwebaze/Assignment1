@@ -1,40 +1,40 @@
 div {
-  text-align:center;
-  line-height:125px;
   font-family: 'Brush Script MT', cursive;
+  line-height:125px;
+  text-align:center;
 }
 body{
   margin: 0;
 }
 .my-bio{
   background-color: oldlace;
-  width:250px;
   height:250px;
+  width:250px;
 }
 .my-photo{
   background-color: mistyrose;
+  height:250px;
   margin-left:900px;
   margin-top:-250px;
   width:250px;
-  height:250px;
 }
 .my-education-history{
   background-color: lightpink;
-margin-left:450px;
-width:250px;
-height:250px;
+  height:250px;
+  margin-left:450px;
+  width:250px;
 }
 .my-hobbies{
   background-color: hotpink;
-  width:250px;
   height:250px;
+  width:250px;
 }
 .contact-me{
   background-color: lightcoral;
-margin-left:900px;
-margin-top:-250px;
-width:250px;
-height:250px;
+  height:250px;
+  margin-left:900px;
+  margin-top:-250px;
+  width:250px;
 }
 p{
   display: inline-block;
@@ -44,8 +44,8 @@ div.p{
 }
 a{
   display: block;
-  width: 250px;
   height:250px;
+  width: 250px;
 }
 .my-bio:hover{
   background-color: cornsilk
